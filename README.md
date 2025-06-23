@@ -1,5 +1,5 @@
 # PROYECTO-GEMINI-API--TKINTER
 PROYECTO-GEMINI API- TKINTER
 
+[Ver el informe en PDF](https://github.com/FrennyMC/PROYECTO-GEMINI-API--TKINTER/blob/fa5fc57e57c21c4d5d90d5ed071fec3bcd6cda16/Proyecto_GeminaiAPI.pdf)
 
-![Texto alternativo](https://github.com/FrennyMC/PROYECTO-GEMINI-API--TKINTER/blob/bb2ea30b467d3150a35818c1d6e89b1633d8d0c8/main.jpg)
